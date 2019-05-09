@@ -5,7 +5,7 @@ When using a computer, you prefer minimalistic command line applications that ou
 terminal that you have configured to have semi-transparent background with Frank Zappa background music and
 vim-like shortcuts that differentiates you from the common programmers. You are a big fish in a small pond.
 
-Your friends are not geeks like you, they have more important goals in their lives, but they admire you for being
+Your friends are not geeks like you, they are mere simpletons with run-of-the=mill lives, but they admire you for being
 so smart, because you can write computer programs. Programs with ANSI colours even. And yet, they don't know how
 to use a terminal.
 
